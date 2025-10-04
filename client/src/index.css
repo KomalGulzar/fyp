@@ -1,0 +1,12 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss";
+
+body {
+    background-color: rgb(220, 233, 248); /* Soft pastel blue */
+
+
+    margin: 0;
+    padding: 0;
+}
